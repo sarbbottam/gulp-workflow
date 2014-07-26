@@ -1,0 +1,30 @@
+{
+  "name": "gulp-workflow",
+  "version": "0.0.1",
+  "description": "gulp workflow",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sarbbottam/gulp-workflow.git"
+  },
+  "keywords": [
+    "gulp",
+    "workflow",
+    "build"
+  ],
+  "author": "Sarbbottam Bandyopadhyay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarbbottam/gulp-workflow/issues"
+  },
+  "homepage": "https://github.com/sarbbottam/gulp-workflow",
+  "devDependencies": {
+    "gulp": "~3.8.6",
+    "gulp-jshint": "~1.8.0",
+    "gulp-uglify": "~0.3.1",
+    "jshint-stylish": "~0.4.0"
+  }
+}
